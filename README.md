@@ -8,7 +8,7 @@
    ![Windows运行窗口输入CMD](https://github.com/user-attachments/assets/92825e5f-cfb6-4f2a-982b-6591f7bf6375)
 3. 打开CMD窗口后，在命令行中输入`python`，按下回车键；  
    ![CMD中输入Python](https://github.com/user-attachments/assets/f3910cf7-4209-49ef-b06b-517e578aac57)
-4. 若未安装Python，需先完成安装（已安装则跳过此步），确保系统中存在Python 3.13及以上版本；  
+4. 若未安装Python，需先完成安装（已安装Python则跳过此步） 
    ![Python 3.13已安装界面](https://github.com/user-attachments/assets/ffea4173-e437-4f5f-8937-1ca9759d4e8a)
 
 ## 2. 安装Selenium库（自动化工具）
